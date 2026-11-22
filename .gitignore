@@ -1,0 +1,13 @@
+*.zip
+*.pt
+*.bin
+*.onnx
+*.engine
+*.weights
+weights/
+runs/
+*.cache
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
